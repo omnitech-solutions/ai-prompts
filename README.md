@@ -1,15 +1,33 @@
-# AI Prompts Collection
+# AI PROMPTS 
 
-## Available AI Prompt Documents
+## Table of Content
+
+- [AI Prompt Guidelines by Example](AI_PROMPT_GUIDELINES_BY_EXAMPLE.md) - Examples and guidelines for creating effective AI prompts
+
+
+- Interview Prep Generators
+   -  [Generic Interview Prep Generator ](Interview_Prep_Generators/Generic_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
+   -  [Recruiter Interview Prep Generator](Interview_Prep_Generators/Recruiter_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
+
+
+- [Prompt Engineering Assistant](Prompt_Engineering_Assistant.md) - Guide for effective prompt engineering
+
 
 - [AI Job Application Platform System Overview](AI_Job_Application_Platform_System_Overview.md) - Comprehensive guide for the AI job application platform
-- [AI Prompt Guidelines by Example](AI_PROMPT_GUIDELINES_BY_EXAMPLE.md) - Examples and guidelines for creating effective AI prompts
+
+
 - [Code Generation Pipeline](Code_Generation_Pipeline.md) - Documentation for the code generation workflow
-- [Code Reviewer](Code_Reviewer.md) - AI-powered code review assistant
-- [Cover Letter Generator](Cover_Letter_Generator.md) - Tool for generating professional cover letters
+
+
 - [Full-Stack App Generation](Full-Stack_App_Generation.md) - Guide for generating full-stack applications
-- [Job Interview Prep Generator](Job_Interview_Prep_Generator.md) - Assistant for job interview preparation
-- [Prompt Engineering Assistant](Prompt_Engineering_Assistant.md) - Guide for effective prompt engineering
+
+
+- [Code Reviewer](Code_Reviewer.md) - AI-powered code review assistant
+
+
+- [Cover Letter Generator](Cover_Letter_Generator.md) - Tool for generating professional cover letters
+
+
 
 ## Guide to Pairing up with AI
 > **Working with AI should feel natural and like working with a teammate.** Show respect, keep it in the loop, and let it ask questions to get the full picture. The more context you give, the more useful it becomes—and together, you can create better solutions than either of you could alone.
