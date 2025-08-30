@@ -6,7 +6,7 @@
 
 
 - Interview Prep Generators
-   -  [Generic Interview Prep Generator ](Interview_Prep_Generators/Generic_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
+   -  [Generic Interview Prep Generator ](Interview_Prep_Generators/AI-Prompts_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
    -  [Recruiter Interview Prep Generator](Interview_Prep_Generators/Recruiter_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
 
 
