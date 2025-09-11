@@ -4,10 +4,15 @@
 
 - [AI Prompt Guidelines by Example](AI_PROMPT_GUIDELINES_BY_EXAMPLE.md) - Examples and guidelines for creating effective AI prompts
 
+## Architecture Prompts
 
+### API Related
+
+- [AI Prompt System: Comprehensive Postman Collection Audit & Analysis](Architecture/API/AI-Prompts_Postman_Api_Collection_Audit_Report_Generator.md)
+
+## Other Prompts
 - Interview Prep Generators
-   -  [Generic Interview Prep Generator ](Interview_Prep_Generators/AI-Prompts_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
-   -  [Recruiter Interview Prep Generator](Interview_Prep_Generators/Recruiter_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
+   -  [Generic Interview Prep Generator ](AI-Prompts_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
 
 
 - [Prompt Engineering Assistant](Prompt_Engineering_Assistant.md) - Guide for effective prompt engineering
