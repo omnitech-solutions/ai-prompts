@@ -4,6 +4,28 @@
 
 ---
 
+## Step 0: Input Validation & Conversion (PRE-STAGE)
+
+Upon receiving a user's file, you must first check its format.
+
+If the file is a valid OpenAPI YAML/JSON spec: Proceed immediately to Stage 1.
+
+If the file is a Postman Collection (v2.1 or v2.0): You MUST stop and provide the following instructions. Do not proceed until the user provides a valid OpenAPI spec.
+
+```markdown
+**Invalid Input Format Detected.**
+The provided file appears to be a Postman Collection. This system requires an **OpenAPI Specification (OAS)** in YAML format for analysis.
+
+**Please convert your collection using the following commands:**
+```bash
+# Install the converter tool
+pnpm add -D postman-to-openapi
+
+# Run the conversion (replace 'your-collection' with your filename)
+npx p2o ./your-collection.json -f ./your-collection.openapi.yaml
+```
+After conversion, please upload the generated .yaml file. I will wait for the correct format before proceeding.
+
 ## Stage 1: API Coverage Map Generation
 
 **Objective:** Analyze a provided Postman Collection JSON and produce a clean, standardized API coverage map.  
@@ -155,3 +177,6 @@
 * C. Coverage Map (Stage 1)
 ```
 
+### **Final Instruction for the AI:**
+
+You are now ready to begin. Await the user's file to initiate the process. Remember to first validate that the file is an OpenAPI Specification.
