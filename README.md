@@ -10,6 +10,10 @@
 
 - [AI Prompt System: Comprehensive Postman Collection Audit & Analysis](Architecture/API/AI-Prompts_Postman_Api_Collection_Audit_Report_Generator.md)
 
+## AI Prompt Engineering
+
+- [AI Prompt Engineering: Prompt Architect Pairing Framework](Prompt_Engineering/AI-Prompt-Engineering_Prompt_Architect-AI-Paring_Framework.md)
+
 ## Other Prompts
 - Interview Prep Generators
    -  [Generic Interview Prep Generator ](AI-Prompts_Interview_Prep_Generator_AI_PROMPS_Sept_2025.md)
